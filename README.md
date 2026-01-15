@@ -78,5 +78,3 @@ Se sigue la metodología **CRISP-DM**:
 
 ## Frontend
 Se proyecta un diseño web donde las usuarias puedan subir su imagen y recibir recomendaciones visuales de cortes de cabello personalizados.
-
-[link](https://www.ibm.com/es-es/topics/convolutional-neural-networks)
